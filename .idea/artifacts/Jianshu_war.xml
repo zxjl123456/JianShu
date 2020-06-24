@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Jianshu:war">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Jianshu_war</output-path>
+    <root id="archive" name="Jianshu_war.war">
+      <element id="artifact" artifact-name="Jianshu:war exploded" />
+    </root>
+  </artifact>
+</component>

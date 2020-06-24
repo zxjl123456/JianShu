@@ -1,0 +1,24 @@
+.show-div{
+    margin: 6rem auto 1rem auto;
+    width: 75%;
+    height: 15rem;
+    position: relative;
+    float: left;
+    margin-left:2rem;
+}
+.show-right{
+    margin: 6rem auto 1rem auto;
+    width: 19%;
+    height: 75%;
+    position: relative;
+    float: right;
+}
+.show-bottom{
+    margin: 6rem auto 1rem auto;
+    width: 80%;
+    height: 20rem;
+    position: relative;
+    float: bottom;
+    margin-top: 25rem;
+    margin-left: 2rem;
+}
